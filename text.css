@@ -15,3 +15,18 @@ body{
         text-transform: uppercase;
         letter-spacing: 0.2em;}
         h3 {
+          font-size: 150%;}
+          p {
+            font-family: Arial, Verdana, sans-serif;
+            line-height: 1.4em;
+            color: #665544;}
+            p.intro:first-line {
+              font-weight: bold;}
+              .credits {
+                font-style: italic;
+                text-align: right;}
+                a {
+                  text-decoration: none;}
+                  a:hover {
+                    text-decoration: underline;
+                  }
